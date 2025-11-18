@@ -1,0 +1,100 @@
+<!-- TOEIC 800 Static Webpage Revised -->
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>TOEIC 800 自學策略</title>
+<style>
+body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+header { background: #6a4bc3; color: white; padding: 40px 20px; text-align: center; }
+section { padding: 20px; max-width: 900px; margin: auto; }
+h2 { color: #6a4bc3; border-left: 5px solid #6a4bc3; padding-left: 10px; }
+.unit { background: #f7f4ff; padding: 20px; border-radius: 10px; margin-bottom: 25px; }
+details { background: white; border: 1px solid #ccc; padding: 10px; margin-top: 8px; border-radius: 6px; }
+button { padding: 10px 20px; background:#6a4bc3; color:white; border:none; border-radius:6px; margin-top:20px; cursor:pointer; }
+table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+table, th, td { border:1px solid #ccc; }
+th, td { padding: 8px; text-align: center; }
+</style>
+</head>
+<body>
+<header>
+<h1>TOEIC 800 自學策略｜TOEIC 800 Learning Plan</h1>
+<p>突破800分不是天分，而是方法與練習。</p>
+</header>
+<section>
+<h2>🔍 主題 Theme：TOEIC 800 分自學策略</h2>
+<p>本教材提供有效規劃、核心單字與閱讀技巧，以及互動式練習題。</p>
+
+<h2>Unit 1｜TOEIC 800 必備學習策略</h2>
+<div class="unit">
+<h3>🎯 Objectives｜學習目標</h3>
+<ul>
+<li>建立有效的自學計畫</li>
+<li>掌握高分者的閱讀與聽力策略</li>
+</ul>
+
+<h3>📌 Key Concepts｜內容重點</h3>
+<ul>
+<li>80/20原則：20%重點單字與題型 = 80%成績</li>
+<li>閱讀優先策略：先題目後文章</li>
+<li>聽力答題流程：Preview → Listen → Eliminate → Choose</li>
+</ul>
+
+<h3>💡 Tips｜技巧</h3>
+<ul>
+<li>錯題紀錄本：每題標註 Why wrong?</li>
+<li>閱讀抓關鍵：時間、地點、目的、結果</li>
+</ul>
+</div>
+
+<h2>Unit 2｜高頻單字與閱讀策略</h2>
+<div class="unit">
+<h3>📚 高頻單字表｜High Frequency Vocabulary</h3>
+<table>
+<tr><th>Word</th><th>中文</th><th>Example Sentence</th></tr>
+<tr><td>revenue</td><td>收入</td><td>The company reported increased revenue this quarter.</td></tr>
+<tr><td>candidate</td><td>候選人</td><td>The company interviewed five candidates for the position.</td></tr>
+<tr><td>inventory</td><td>庫存</td><td>We need to check the inventory before ordering more items.</td></tr>
+<tr><td>participate</td><td>參加</td><td>Employees are encouraged to participate in the workshop.</td></tr>
+</table>
+
+<h3>📖 Reading Strategy Example｜閱讀技巧示例</h3>
+<p><strong>Step:</strong> Read the question first → Scan keywords → Confirm answer in the passage.</p>
+
+<p><strong>Mini Practice（互動題）：</strong></p>
+<p>Q: What is the article mainly about?</p>
+<details><summary>點我查看答案 Show Answer</summary><p>A: The company’s sales improvement this quarter.</p></details>
+</div>
+
+<h2>Unit 3｜Listening & Reading 題型解析與小測驗</h2>
+<div class="unit">
+<h3>Mini Test｜小測驗（LR混合題）</h3>
+<ol>
+<li>Part 3 Listening: Why is the woman calling?<br>
+A) To schedule a meeting B) To cancel an order C) To request information D) To apply for a job
+<details><summary>Show Answer</summary>A: C</details></li>
+<br>
+<li>Reading: A notice says employees must submit reports by Friday. When is the deadline?<br>
+A) Monday B) Wednesday C) Friday D) Sunday
+<details><summary>Show Answer</summary>A: C</details></li>
+</ol>
+</div>
+
+<h2>📅 8 週學習計畫表</h2>
+<table>
+<tr><th>Week</th><th>內容</th><th>目標</th></tr>
+<tr><td>1-2</td><td>Reading策略 + 高頻單字</td><td>速度提升20%</td></tr>
+<tr><td>3-4</td><td>聽力訓練 + shadowing</td><td>聽力理解提升</td></tr>
+<tr><td>5-6</td><td>模擬測驗 + 錯題分析</td><td>掌握弱點</td></tr>
+<tr><td>7-8</td><td>全真模考</td><td>穩定800分以上</td></tr>
+</table>
+
+<div style="text-align:center;">
+<button>🚀 開始學習 Start Now</button>
+<p>Contact | Email: toeic800@learning.com</p>
+</div>
+</section>
+</body>
+</html>
